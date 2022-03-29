@@ -3,7 +3,8 @@
 
 **Skriv din rapport här!**
 
-_Du kan ta bort all text som finns sedan tidigare_.
+Uppgiften genomfördes genom att byta ut texten som återfinns inom "content_main.xml" med namnet "android:text="Hello World!" till "android:text="tjenixen gregor!".
+Även en tillhörande skärmdump togs och placerades inom den primära mappen med namnet "Skärmdump på uppdateringen" i PNG-format
 
 ## Följande grundsyn gäller dugga-svar:
 
