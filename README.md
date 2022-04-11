@@ -3,41 +3,12 @@
 
 **Skriv din rapport här!**
 
-Uppgiften genomfördes genom att byta ut texten som återfinns inom "content_main.xml" med namnet "android:text="Hello World!" till "android:text="tjenixen gregor!".
-Även en tillhörande skärmdump togs och placerades inom den primära mappen med namnet "Skärmdump på uppdateringen" i PNG-format
-
-## Följande grundsyn gäller dugga-svar:
-
-- Ett kortfattat svar är att föredra. Svar som är längre än en sida text (skärmdumpar och programkod exkluderat) är onödigt långt.
-- Svaret skall ha minst en snutt programkod.
-- Svaret skall inkludera en kort övergripande förklarande text som redogör för vad respektive snutt programkod gör eller som svarar på annan teorifråga.
-- Svaret skall ha minst en skärmdump. Skärmdumpar skall illustrera exekvering av relevant programkod. Eventuell text i skärmdumpar måste vara läsbar.
-- I de fall detta efterfrågas, dela upp delar av ditt svar i för- och nackdelar. Dina för- respektive nackdelar skall vara i form av punktlistor med kortare stycken (3-4 meningar).
-
-Programkod ska se ut som exemplet nedan. Koden måste vara korrekt indenterad då den blir lättare att läsa vilket gör det lättare att hitta syntaktiska fel.
+- Det första jag gjorde var att skapa mitt github-konto med samma kontodetaljer som mitt skolkonto, alltså e21krida som användarenamn samt e21krida@student.his.se som e-mail
+- Det andra jag gjorde var att forka den redan existerande applikationen för att vidare modifiera denna.
+- Sedan så ändrade jag "Hello World!" till "tjenixen gregor!", detta genom att manipulera den underliggande koden som återfinns inom "content_main.xml".
 
 ```
-function errorCallback(error) {
-    switch(error.code) {
-        case error.PERMISSION_DENIED:
-            // Geolocation API stöds inte, gör något
-            break;
-        case error.POSITION_UNAVAILABLE:
-            // Misslyckat positionsanrop, gör något
-            break;
-        case error.UNKNOWN_ERROR:
-            // Okänt fel, gör något
-            break;
-    }
-}
+    android:text="tjenixen gregor!"
 ```
-
-Bilder läggs i samma mapp som markdown-filen.
-
-![](android.png)
-
-Läs gärna:
-
-- Boulos, M.N.K., Warren, J., Gong, J. & Yue, P. (2010) Web GIS in practice VIII: HTML5 and the canvas element for interactive online mapping. International journal of health geographics 9, 14. Shin, Y. &
-- Wunsche, B.C. (2013) A smartphone-based golf simulation exercise game for supporting arthritis patients. 2013 28th International Conference of Image and Vision Computing New Zealand (IVCNZ), IEEE, pp. 459–464.
-- Wohlin, C., Runeson, P., Höst, M., Ohlsson, M.C., Regnell, B., Wesslén, A. (2012) Experimentation in Software Engineering, Berlin, Heidelberg: Springer Berlin Heidelberg.
+- Sedan pushade samt commitade jag denna förändring till github.
+![]skärmdump på uppdateringen.png)
