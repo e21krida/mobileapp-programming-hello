@@ -11,4 +11,5 @@
     android:text="tjenixen gregor!"
 ```
 - Sedan pushade samt commitade jag denna förändring till github.
-![]skärmdump på uppdateringen.png)
+- Slutligen så tog jag en screenshot på denna uppdatering som ligger nedanför.
+![]skärmdump.png)
